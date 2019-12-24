@@ -171,6 +171,20 @@ p.choice a {
     padding-bottom: 20px;
 }
 
+
 .dark .end {
     color: white;
+}
+
+
+.lineBreak {
+    padding-top: 100px;
+}
+
+.endInfo {
+    display: none
+}
+
+.endPading{
+    padding-bottom: 80px;
 }
