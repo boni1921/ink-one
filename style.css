@@ -176,6 +176,9 @@ p.choice a {
     color: white;
 }
 
+.danger {
+    color: red;
+}
 
 .lineBreak {
     padding-top: 100px;
